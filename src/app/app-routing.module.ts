@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { PageNotFoundComponent } from './components/page-not-found.component';
-import { CharactersListComponent } from './components/characters-list/characters-list.component';
+import { CharactersListComponent } from './modules/characters/components/characters-list/characters-list.component';
 
 const appRoutes: Routes = [
   { path: 'characters', component: CharactersListComponent },

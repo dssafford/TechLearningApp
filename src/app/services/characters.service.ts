@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
-import {Character} from '../classes/character';
-import {CHARACTERS} from '../classes/data-characters';
+import {Character} from '../modules/characters/classes/character';
+import {CHARACTERS} from '../modules/characters/classes/data-characters';
 
 
 @Injectable()

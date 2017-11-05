@@ -1,3 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~https://fonts.googleapis.com/icon?family=Material+Icons';
-@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+/*@import '~@angular/material/prebuilt-themes/indigo-pink.css';*/
+/*@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';*/
+@import '~@angular/material/prebuilt-themes/purple-green.css';
+
+/*Using a pre-built theme*/
+
+/*Angular Material comes prepackaged with several pre-built theme css files. These theme files also include all of the styles for core (styles common to all components), so you only have to include a single css file for Angular Material in your app.*/
+
+                                                                                                                                                                        /*You can include a theme file directly into your application from @angular/material/prebuilt-themes*/
+
+/*Available pre-built themes:*/
+
+/*deeppurple-amber.css*/
+/*indigo-pink.css*/
+/*pink-bluegrey.css*/
+/*purple-green.css*/
+
